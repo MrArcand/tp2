@@ -1,6 +1,7 @@
 # Présentation de mon profil par Félix Arcand 
 
 ## Pourquoi j’ai choisi le programme TIM 
+J'ai toujours tournée autour de l'art depuis tout jeune âge 
 ## Mon profil multimédia
 ## Mes forces
 ## Mes faiblesses
