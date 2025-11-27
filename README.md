@@ -1,5 +1,4 @@
 # Présentation de mon profil par Félix Arcand 
-
 ## Pourquoi j’ai choisi le programme TIM 
 J'ai toujours tournée autour de l'art depuis tout jeune âge. j'adore m'exprimer à travers mes oeuvres artisitiques. que ce soit la musique ou dans le photo montage. 
 ## Mon profil multimédia
@@ -20,6 +19,7 @@ J'aimerais bien travailler pour la STM (Société de transport de Montréal)  ou
 ## Conclusion
 En résumé, je crois que j'ai choisi le meilleur programme qui corespond avec mes intérêts, mes passions et ce que je voudrais faire plus tard. J'ai très hâte à la session prochaine pour les nouveaux cours.
 ## Moodboard
+
 ## Mind Map
 ## Flowchart
 
