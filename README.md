@@ -21,5 +21,6 @@ En résumé, je crois que j'ai choisi le meilleur programme qui corespond avec m
 ## Moodboard
 
 ## Mind Map
+![Texte alternatif](./Carte Mentale_Profil Mulitmédia.jpg)
 ## Flowchart
 
